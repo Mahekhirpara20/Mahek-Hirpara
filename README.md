@@ -17,7 +17,7 @@
 </p>
 
 ```yaml
-👨‍💻 Name: Kismat Shah
+👨‍💻 Name: Mahek Hirpara
 🎓 Course: B.Tech in Computer Science (1st Year)
 💡 Interests: AIML, Web Dev, and Creating Awesome Stuff
 🔥 Motto: Code. Create. Conquer.
